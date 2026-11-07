@@ -249,16 +249,16 @@ Thảo luận về các giải pháp tiềm năng và **sự đánh đổi (trad
 
 > Các câu hỏi thiết kế hệ thống kinh điển kèm theo thảo luận mẫu, code và sơ đồ minh họa nằm trong thư mục `solutions/`.
 
-| Câu hỏi | Lời giải chi tiết |
-|---|---|
-| Thiết kế Pastebin.com (hoặc Bit.ly - Dịch vụ rút gọn link) | [Xem Lời giải](solutions/system_design/pastebin/README.md) |
-| Thiết kế Twitter Timeline và Search (hoặc Facebook Feed) | [Xem Lời giải](solutions/system_design/twitter/README.md) |
-| Thiết kế Web Crawler (Bot thu thập dữ liệu web quy mô lớn) | [Xem Lời giải](solutions/system_design/web_crawler/README.md) |
-| Thiết kế Mint.com (Ứng dụng quản lý tài chính cá nhân) | [Xem Lời giải](solutions/system_design/mint/README.md) |
-| Thiết kế Cấu trúc dữ liệu cho Mạng xã hội (Social Graph) | [Xem Lời giải](solutions/system_design/social_graph/README.md) |
-| Thiết kế Key-Value Store cho Search Engine (Query Cache) | [Xem Lời giải](solutions/system_design/query_cache/README.md) |
-| Thiết kế tính năng Bảng xếp hạng doanh số theo danh mục của Amazon (Sales Rank) | [Xem Lời giải](solutions/system_design/sales_rank/README.md) |
-| Thiết kế hệ thống mở rộng lên hàng triệu người dùng trên AWS (Scaling AWS) | [Xem Lời giải](solutions/system_design/scaling_aws/README.md) |
+| Câu hỏi | Lời giải chi tiết (Tiếng Việt) | Bản gốc (English) |
+|---|---|---|
+| Thiết kế Pastebin.com (hoặc Bit.ly - Dịch vụ rút gọn link) | [Xem Lời giải Tiếng Việt](solutions/system_design/pastebin/README-vi.md) | [English](solutions/system_design/pastebin/README.md) |
+| Thiết kế Twitter Timeline và Search (hoặc Facebook Feed) | [Xem Lời giải Tiếng Việt](solutions/system_design/twitter/README-vi.md) | [English](solutions/system_design/twitter/README.md) |
+| Thiết kế Web Crawler (Bot thu thập dữ liệu web quy mô lớn) | [Xem Lời giải Tiếng Việt](solutions/system_design/web_crawler/README-vi.md) | [English](solutions/system_design/web_crawler/README.md) |
+| Thiết kế Mint.com (Ứng dụng quản lý tài chính cá nhân) | [Xem Lời giải Tiếng Việt](solutions/system_design/mint/README-vi.md) | [English](solutions/system_design/mint/README.md) |
+| Thiết kế Cấu trúc dữ liệu cho Mạng xã hội (Social Graph) | [Xem Lời giải Tiếng Việt](solutions/system_design/social_graph/README-vi.md) | [English](solutions/system_design/social_graph/README.md) |
+| Thiết kế Key-Value Store cho Search Engine (Query Cache) | [Xem Lời giải Tiếng Việt](solutions/system_design/query_cache/README-vi.md) | [English](solutions/system_design/query_cache/README.md) |
+| Thiết kế tính năng Bảng xếp hạng doanh số của Amazon (Sales Rank) | [Xem Lời giải Tiếng Việt](solutions/system_design/sales_rank/README-vi.md) | [English](solutions/system_design/sales_rank/README.md) |
+| Thiết kế hệ thống mở rộng lên hàng triệu người dùng trên AWS (Scaling AWS) | [Xem Lời giải Tiếng Việt](solutions/system_design/scaling_aws/README-vi.md) | [English](solutions/system_design/scaling_aws/README.md) |
 
 ---
 
