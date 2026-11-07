@@ -85,3 +85,4 @@ Với hàng tỷ truy vấn, dữ liệu cache không thể chứa vừa trên 1
    * Dùng giải thuật **Consistent Hashing** để xác định một truy vấn sẽ do máy chủ Cache nào chịu trách nhiệm lưu trữ:
      $$\text{Server} = \text{Hash}(\text{Query}) \pmod N$$
    * Khi thêm hoặc bớt một máy chủ trong cụm, thuật toán Consistent Hashing chỉ làm di chuyển một lượng rất nhỏ dữ liệu, tránh làm sập toàn bộ hệ thống Cache (Cache Stampede).
+

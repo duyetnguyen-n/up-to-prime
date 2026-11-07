@@ -92,3 +92,4 @@ timestamp   product_id  category_id    qty     total_price   seller_id    buyer_
    * Vì bảng xếp hạng chỉ cập nhật 1 giờ/lần, TTL của Cache được đặt là 1 giờ.
 2. **Cơ sở dữ liệu (Master - Read Replicas):**
    * Nếu có Cache Miss, các lượt đọc được chuyển sang cụm **SQL Read Replicas** để giảm tải cho máy chủ chính.
+

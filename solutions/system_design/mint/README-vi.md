@@ -148,3 +148,4 @@ Việc kết nối tới API ngân hàng đối tác để cào giao dịch có 
 3. **Mở rộng cho tải ghi cao (2.000 writes/giây):**
    * Sử dụng **Database Sharding** phân mảnh bảng `transactions` theo `user_id` để chia đều tải ghi cho nhiều cụm server Database.
    * Cân nhắc chuyển các giao dịch sang **NoSQL Database (như DynamoDB)** để đạt thông lượng ghi cao mà không bị nghẽn khóa bảng.
+

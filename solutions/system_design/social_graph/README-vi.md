@@ -83,3 +83,4 @@ Tuy nhiên, với $100$ triệu người và $5$ tỷ quan hệ, dữ liệu b�
    * Phân vùng dữ liệu máy chủ theo khu vực địa lý giúp đa số các truy vấn kết bạn nằm gọn trong cùng một Data Center / cụm server, giảm thiểu tối đa các bước nhảy mạng (Network hops) giữa các máy chủ.
 4. **Ưu tiên duyệt qua các "Node siêu kết nối" (Well-connected nodes):**
    * Ưu tiên mở rộng qua các tài khoản có lượng bạn bè lớn, vì họ đóng vai trò là "cầu nối" giúp rút ngắn số bậc cách biệt (Degrees of separation) cực kỳ nhanh chóng.
+

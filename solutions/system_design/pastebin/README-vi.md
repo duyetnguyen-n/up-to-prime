@@ -206,3 +206,4 @@ Sau đó tiến hành xóa metadata trong Database và xóa file tương ứng t
 5. **Mở rộng khi dữ liệu phình to:**
    * Lưu trữ phân tích số liệu (Analytics) trong **Data Warehouse** như Amazon Redshift hoặc BigQuery.
    * Nếu sau này lượng ghi tăng cao đột biến, có thể áp dụng thêm **Consistent Hashing** để Sharding Database.
+

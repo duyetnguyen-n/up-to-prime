@@ -245,3 +245,4 @@ Lúc này, một cụm Master-Slave MySQL đơn thuần không thể chịu nổ
 2. **Đừng tối ưu hóa quá sớm (Avoid premature optimization):** Ở giai đoạn đầu (vài người dùng), một máy chủ duy nhất là đủ. Chỉ mở rộng khi dữ liệu thực tế cho thấy hệ thống cần mở rộng.
 3. **Nguyên tắc phi trạng thái (Stateless):** Giữ cho tầng Web Server không lưu trữ trạng thái người dùng (đẩy session vào Redis) là chìa khóa để có thể scale ngang vô hạn.
 4. **Bộ nhớ đệm (Cache) và Hàng đợi (Queue):** Là hai vũ khí mạnh nhất để giải quyết bài toán tải cao (Cache để giảm tải đọc, Queue để san phẳng đỉnh tải ghi).
+

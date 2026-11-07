@@ -139,3 +139,4 @@ Cả 2 bảng này được lưu trong **NoSQL Key-Value Database**. Đối vớ
    * **DNS Lookup Bottleneck:** Cào hàng triệu tên miền khác nhau mỗi giờ sẽ khiến việc phân giải DNS trở thành nút thắt cổ chai. Bộ Crawler cần duy trì một **DNS Cache cục bộ riêng** được làm mới định kỳ.
    * **Connection Pooling:** Duy trì sẵn các kết nối TCP mở (Keep-Alive) để không tốn thời gian bắt tay 3 bước (3-way Handshake) cho mỗi trang web.
    * **Băng thông mạng (Network Bandwidth):** Hệ thống cào web ngốn băng thông cực lớn, cần đặt các Crawler tại nhiều Data Centers trên khắp thế giới để tối ưu đường truyền.
+

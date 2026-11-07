@@ -164,3 +164,4 @@ Mỗi khi có tweet mới, ta chỉ việc `LPUSH` bản ghi gồm `tweet_id` + 
 * Vì lượng ghi lên tới $6.000\text{ tweets/giây}$, một cụm Master-Slave đơn thuần không thể chịu nổi. Cần áp dụng:
   * **Database Sharding:** Phân vùng Database dựa trên `user_id` bằng giải thuật **Consistent Hashing**.
   * **Tách bảng (Federation):** Tách riêng DB Lưu trữ bài viết, DB Đồ thị quan hệ bạn bè (Followers graph), và DB Hồ sơ người dùng.
+
